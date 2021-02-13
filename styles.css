@@ -9,3 +9,7 @@ div {
   background: lightblue;
   background-clip: padding-box;
 }
+
+p {
+  margin: 35px;
+}
