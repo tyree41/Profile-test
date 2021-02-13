@@ -4,20 +4,8 @@ h1 {
   }
 
 div {
-    text-align:center;
-}
-body {
-  background-color: #fefbd8;
-}
-
-h1 {
-  background-color: #80ced6;
-}
-
-div {
-  background-color: #d5f4e6;
-}
-
-span {
-  background-color: #f18973;
+  border: 10px dotted black;
+  padding: 15px;
+  background: lightblue;
+  background-clip: padding-box;
 }
