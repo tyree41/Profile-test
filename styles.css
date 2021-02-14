@@ -1,16 +1,18 @@
 h1 {
-  font-size: 80px;
+  font-size: 65px;
   font-family: New Times Roman;
-  margin: 35px;
+  text-align: center;
   }
 
-div {
-  border: 10px dotted black;
-  padding: 15px;
-  background: lightblue;
-  background-clip: padding-box;
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
 }
 
 p {
   margin: 35px;
+  text-align: center;
 }
