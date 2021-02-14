@@ -32,6 +32,10 @@ span {
   background-color: #f18973;
 }
 
+ul { 
+  text-align: center;
+}
+
 li { 
   text-align: center;
 }
