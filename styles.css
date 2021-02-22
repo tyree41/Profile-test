@@ -51,10 +51,18 @@ span {
   background-color: #f18973;
 }
 
-ul { 
+ol { 
   margin: 0 auto;
 width: fit-content;
   text-align: center;
 }
 
+div.a {
+  height: auto;
+  border: 1px solid black;
+}
 
+div.b {
+  height: 50px;
+  border: 1px solid black;
+}
