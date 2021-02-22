@@ -51,6 +51,12 @@ span {
   background-color: #f18973;
 }
 
+ul { 
+  margin: 0 auto;
+width: fit-content;
+  text-align: center;
+}
+
 ol { 
   margin: 0 auto;
 width: fit-content;
@@ -62,7 +68,3 @@ div.a {
   border: 1px solid black;
 }
 
-div.b {
-  height: 50px;
-  border: 1px solid black;
-}
