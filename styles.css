@@ -3,7 +3,7 @@
   background-color: brown;
 }
 
-h1, p, {
+h1, div class="a" {
   margin: 10px;
   padding: 20px;
 }
@@ -12,7 +12,7 @@ p {
   background: lightblue;
 }
 
-h2, p {
+h2, div class="a" {
   margin: 4px;
   font-size: 90%;
 }
